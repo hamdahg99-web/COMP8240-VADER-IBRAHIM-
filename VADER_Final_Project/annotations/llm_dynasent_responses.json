@@ -1,0 +1,422 @@
+[
+  {
+    "item_id": "r2-0019901",
+    "label": "negative",
+    "supporting_phrase": "had best believe in magic",
+    "confidence": "medium",
+    "explanation": "Extra service appears implausible, implying dissatisfaction."
+  },
+  {
+    "item_id": "r2-0019292",
+    "label": "neutral",
+    "supporting_phrase": "I felt the customer service",
+    "confidence": "high",
+    "explanation": "The fragment gives no clear evaluation."
+  },
+  {
+    "item_id": "r2-0019913",
+    "label": "positive",
+    "supporting_phrase": "too good",
+    "confidence": "medium",
+    "explanation": "The explicit praise dominates without further context."
+  },
+  {
+    "item_id": "r2-0019848",
+    "label": "neutral",
+    "supporting_phrase": "Grab some tacos here",
+    "confidence": "low",
+    "explanation": "A practical suggestion gives little explicit evaluative sentiment."
+  },
+  {
+    "item_id": "r2-0019787",
+    "label": "positive",
+    "supporting_phrase": "nothing that can be done to make this place better",
+    "confidence": "low",
+    "explanation": "Read as already ideal, though a hopeless-place interpretation is also possible."
+  },
+  {
+    "item_id": "r2-0019817",
+    "label": "neutral",
+    "supporting_phrase": "I went to hotel",
+    "confidence": "high",
+    "explanation": "A factual visit is reported."
+  },
+  {
+    "item_id": "r2-0019359",
+    "label": "positive",
+    "supporting_phrase": "I like being drunk",
+    "confidence": "medium",
+    "explanation": "The speaker explicitly expresses liking despite the correction."
+  },
+  {
+    "item_id": "r2-0019800",
+    "label": "negative",
+    "supporting_phrase": "bad experience",
+    "confidence": "high",
+    "explanation": "Both clauses criticise the service."
+  },
+  {
+    "item_id": "r2-0019557",
+    "label": "positive",
+    "supporting_phrase": "favorite restaurant. loved it",
+    "confidence": "high",
+    "explanation": "The writer expresses strong liking."
+  },
+  {
+    "item_id": "r2-0019298",
+    "label": "neutral",
+    "supporting_phrase": "so many people behind the counter",
+    "confidence": "medium",
+    "explanation": "Staff numbers alone do not establish satisfaction."
+  },
+  {
+    "item_id": "r2-0019627",
+    "label": "negative",
+    "supporting_phrase": "wait nearly 30 minutes",
+    "confidence": "medium",
+    "explanation": "The delay is framed as an inconvenience."
+  },
+  {
+    "item_id": "r2-0019361",
+    "label": "neutral",
+    "supporting_phrase": "can be found in their signature item",
+    "confidence": "high",
+    "explanation": "This identifies an item without evaluating it."
+  },
+  {
+    "item_id": "r2-0019632",
+    "label": "negative",
+    "supporting_phrase": "very bad and unattractive",
+    "confidence": "high",
+    "explanation": "The final clause explicitly rejects the place."
+  },
+  {
+    "item_id": "r2-0019702",
+    "label": "neutral",
+    "supporting_phrase": "I all but the carne asada tacos",
+    "confidence": "high",
+    "explanation": "The incomplete wording leaves the evaluation unclear."
+  },
+  {
+    "item_id": "r2-0019961",
+    "label": "negative",
+    "supporting_phrase": "total pizza coma and don't know why",
+    "confidence": "low",
+    "explanation": "The wording suggests uncomfortable overindulgence but could be playful praise."
+  },
+  {
+    "item_id": "r2-0019722",
+    "label": "positive",
+    "supporting_phrase": "Everything is well made",
+    "confidence": "low",
+    "explanation": "Strong praise outweighs a qualified complaint about affordability in this reading."
+  },
+  {
+    "item_id": "r2-0019293",
+    "label": "negative",
+    "supporting_phrase": "me thinks otherwise",
+    "confidence": "high",
+    "explanation": "The rhetorical question rejects returning."
+  },
+  {
+    "item_id": "r2-0019485",
+    "label": "negative",
+    "supporting_phrase": "turned off the TV",
+    "confidence": "low",
+    "explanation": "The contrast implies frustration with the programme change."
+  },
+  {
+    "item_id": "r2-0019829",
+    "label": "positive",
+    "supporting_phrase": "a great return to normal",
+    "confidence": "high",
+    "explanation": "The current shuttle experience is praised after an unpleasant trip."
+  },
+  {
+    "item_id": "r2-0019729",
+    "label": "negative",
+    "supporting_phrase": "terrible",
+    "confidence": "high",
+    "explanation": "The explicit final judgement is unfavourable."
+  },
+  {
+    "item_id": "r2-0019934",
+    "label": "positive",
+    "supporting_phrase": "I was happy",
+    "confidence": "high",
+    "explanation": "The writer accepts the smaller portion and states satisfaction."
+  },
+  {
+    "item_id": "r2-0019482",
+    "label": "negative",
+    "supporting_phrase": "being a mean person",
+    "confidence": "high",
+    "explanation": "Praise of skill at meanness conveys criticism of the person."
+  },
+  {
+    "item_id": "r2-0019530",
+    "label": "negative",
+    "supporting_phrase": "locked her in the trunk",
+    "confidence": "high",
+    "explanation": "The threatening action dominates the positive-looking word smile."
+  },
+  {
+    "item_id": "r2-0019425",
+    "label": "positive",
+    "supporting_phrase": "It is great",
+    "confidence": "medium",
+    "explanation": "The final explicit assessment is favourable despite the admonition."
+  },
+  {
+    "item_id": "r2-0019311",
+    "label": "negative",
+    "supporting_phrase": "exactly the way we don't like it",
+    "confidence": "high",
+    "explanation": "The final qualification reverses the opening praise."
+  },
+  {
+    "item_id": "r2-0019683",
+    "label": "negative",
+    "supporting_phrase": "not special for me",
+    "confidence": "high",
+    "explanation": "The speaker explicitly rejects the place's appeal."
+  },
+  {
+    "item_id": "r2-0019927",
+    "label": "negative",
+    "supporting_phrase": "between filing her nails and calling her boyfriend",
+    "confidence": "high",
+    "explanation": "The sarcastic description criticises the clerk's priorities."
+  },
+  {
+    "item_id": "r2-0019904",
+    "label": "neutral",
+    "supporting_phrase": "we stop here",
+    "confidence": "high",
+    "explanation": "A trip and stop are described without an evaluation."
+  },
+  {
+    "item_id": "r2-0019407",
+    "label": "neutral",
+    "supporting_phrase": "just OK in my opinion",
+    "confidence": "medium",
+    "explanation": "The overall judgement is middling rather than clearly favourable or unfavourable."
+  },
+  {
+    "item_id": "r2-0019394",
+    "label": "negative",
+    "supporting_phrase": "appearing to care",
+    "confidence": "high",
+    "explanation": "The apparent praise is sarcastic criticism of insincerity."
+  },
+  {
+    "item_id": "r2-0019667",
+    "label": "neutral",
+    "supporting_phrase": "Prices have been going up and down",
+    "confidence": "high",
+    "explanation": "Price movement is stated without approval or disapproval."
+  },
+  {
+    "item_id": "r2-0019430",
+    "label": "positive",
+    "supporting_phrase": "freaky fast to respond",
+    "confidence": "high",
+    "explanation": "Responsiveness is praised emphatically."
+  },
+  {
+    "item_id": "r2-0019889",
+    "label": "positive",
+    "supporting_phrase": "Now they have new staff",
+    "confidence": "high",
+    "explanation": "The current experience is favourable in contrast with the past."
+  },
+  {
+    "item_id": "r2-0019647",
+    "label": "positive",
+    "supporting_phrase": "my go to",
+    "confidence": "high",
+    "explanation": "A preferred regular choice indicates approval."
+  },
+  {
+    "item_id": "r2-0019512",
+    "label": "negative",
+    "supporting_phrase": "leftover meat",
+    "confidence": "medium",
+    "explanation": "The final suspicion undermines the apparent value for money."
+  },
+  {
+    "item_id": "r2-0019808",
+    "label": "neutral",
+    "supporting_phrase": "has food available",
+    "confidence": "high",
+    "explanation": "Availability alone gives no evaluation."
+  },
+  {
+    "item_id": "r2-0019841",
+    "label": "neutral",
+    "supporting_phrase": "make the house Italian dressing",
+    "confidence": "high",
+    "explanation": "The statement recounts a habitual action."
+  },
+  {
+    "item_id": "r2-0019643",
+    "label": "negative",
+    "supporting_phrase": "The worst acai bowl",
+    "confidence": "high",
+    "explanation": "The extreme negative judgement is explicit."
+  },
+  {
+    "item_id": "r2-0019434",
+    "label": "neutral",
+    "supporting_phrase": "or could stay open far longer",
+    "confidence": "high",
+    "explanation": "Alternative future outcomes are described without a clear attitude."
+  },
+  {
+    "item_id": "r2-0019438",
+    "label": "neutral",
+    "supporting_phrase": "get the individual weighed n price",
+    "confidence": "low",
+    "explanation": "The garbled phrase lacks a reliable favourable or unfavourable reading."
+  },
+  {
+    "item_id": "r2-0019536",
+    "label": "negative",
+    "supporting_phrase": "disappointed",
+    "confidence": "high",
+    "explanation": "The writer criticises organisation and presentation."
+  },
+  {
+    "item_id": "r2-0019287",
+    "label": "positive",
+    "supporting_phrase": "no one else is eavesdropping",
+    "confidence": "medium",
+    "explanation": "Privacy is presented as a benefit of the spacing."
+  },
+  {
+    "item_id": "r2-0019717",
+    "label": "positive",
+    "supporting_phrase": "attentive to my situation",
+    "confidence": "high",
+    "explanation": "Attentiveness conveys approval."
+  },
+  {
+    "item_id": "r2-0019885",
+    "label": "positive",
+    "supporting_phrase": "a second home",
+    "confidence": "medium",
+    "explanation": "Affection for the venue outweighs the sadness of missing it."
+  },
+  {
+    "item_id": "r2-0019802",
+    "label": "neutral",
+    "supporting_phrase": "twice in the past week",
+    "confidence": "high",
+    "explanation": "Visit frequency and meal times are factual."
+  },
+  {
+    "item_id": "r2-0019684",
+    "label": "neutral",
+    "supporting_phrase": "sometimes can order to go",
+    "confidence": "medium",
+    "explanation": "The availability pattern is described without explicit evaluation."
+  },
+  {
+    "item_id": "r2-0019608",
+    "label": "positive",
+    "supporting_phrase": "which sold us",
+    "confidence": "medium",
+    "explanation": "The comparison ended in a favourable choice of a provider."
+  },
+  {
+    "item_id": "r2-0019732",
+    "label": "neutral",
+    "supporting_phrase": "T-shirts proclaiming",
+    "confidence": "high",
+    "explanation": "A slogan is quoted rather than endorsed by the narrator."
+  },
+  {
+    "item_id": "r2-0019373",
+    "label": "positive",
+    "supporting_phrase": "one h--l of a show",
+    "confidence": "medium",
+    "explanation": "The idiomatic emphatic wording is read as praise."
+  },
+  {
+    "item_id": "r2-0019614",
+    "label": "positive",
+    "supporting_phrase": "lived up to the hype",
+    "confidence": "high",
+    "explanation": "The experience met high expectations."
+  },
+  {
+    "item_id": "r2-0019714",
+    "label": "negative",
+    "supporting_phrase": "two items and one of them being root beer",
+    "confidence": "medium",
+    "explanation": "The description implies dissatisfaction with the limited beer selection."
+  },
+  {
+    "item_id": "r2-0019617",
+    "label": "positive",
+    "supporting_phrase": "nice option",
+    "confidence": "low",
+    "explanation": "The explicit final approval is read as the overall assessment."
+  },
+  {
+    "item_id": "r2-0019669",
+    "label": "negative",
+    "supporting_phrase": "It was a bad place",
+    "confidence": "high",
+    "explanation": "The closing judgement is explicitly unfavourable."
+  },
+  {
+    "item_id": "r2-0019573",
+    "label": "negative",
+    "supporting_phrase": "could not even make myself take a couple bites",
+    "confidence": "high",
+    "explanation": "The actual dish disappoints the positive anticipation."
+  },
+  {
+    "item_id": "r2-0019952",
+    "label": "neutral",
+    "supporting_phrase": "get more profit",
+    "confidence": "low",
+    "explanation": "A financial outcome is stated without a clear emotional assessment."
+  },
+  {
+    "item_id": "r2-0019782",
+    "label": "negative",
+    "supporting_phrase": "It sucked",
+    "confidence": "high",
+    "explanation": "The writer explicitly complains about the lost time."
+  },
+  {
+    "item_id": "r2-0019506",
+    "label": "negative",
+    "supporting_phrase": "high prices and crowds",
+    "confidence": "medium",
+    "explanation": "The conditional praise is read as criticism of undesirable conditions."
+  },
+  {
+    "item_id": "r2-0019907",
+    "label": "positive",
+    "supporting_phrase": "pleasant meal",
+    "confidence": "high",
+    "explanation": "The overall dining assessment is favourable."
+  },
+  {
+    "item_id": "r2-0019261",
+    "label": "neutral",
+    "supporting_phrase": "learned how to avoid the smokes",
+    "confidence": "low",
+    "explanation": "A learned behaviour is described without clear evaluative attitude."
+  },
+  {
+    "item_id": "r2-0019888",
+    "label": "neutral",
+    "supporting_phrase": "might keep u laced up all night",
+    "confidence": "low",
+    "explanation": "The likely effect of concentrated coffee is described with no clear approval or complaint."
+  }
+]

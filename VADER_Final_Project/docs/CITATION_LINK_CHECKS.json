@@ -1,0 +1,113 @@
+{
+  "requested_sentence_before": "Human ratings, records of consent and numbers of annotations are yet to be invented.",
+  "requested_sentence_after": "No human ratings, consent records, or annotation agreement statistics have been fabricated.",
+  "citation_punctuation_repair": {
+    "before": "(2014,.",
+    "after": "(2014),"
+  },
+  "restored_reference": "2026. COMP8240 overall goal and assessment criteria. Unit iLearn guidance, Session 2.",
+  "internal_citation_links": [
+    {
+      "citation": "Pang and Lee (2008)",
+      "linked_text": "2008",
+      "target": "ref_pang2008opinion"
+    },
+    {
+      "citation": "Wilson et al. (2005)",
+      "linked_text": "2005",
+      "target": "ref_wilson2005contextual"
+    },
+    {
+      "citation": "Hutto and Gilbert (2014)",
+      "linked_text": "2014",
+      "target": "ref_hutto2014vader"
+    },
+    {
+      "citation": "(Computing Research and Education Association of Australasia, 2023)",
+      "linked_text": "(Computing Research and Education Association of Australasia, 2023)",
+      "target": "ref_core2023"
+    },
+    {
+      "citation": "Hutto (2026)",
+      "linked_text": "2026",
+      "target": "ref_huttoCode"
+    },
+    {
+      "citation": "project (2026)",
+      "linked_text": "2026",
+      "target": "ref_courseCriteria2026"
+    },
+    {
+      "citation": "(scikit-learn developers, 2026)",
+      "linked_text": "(scikit-learn developers, 2026)",
+      "target": "ref_sklearnMetrics"
+    },
+    {
+      "citation": "Pineau et al. (2021)",
+      "linked_text": "2021",
+      "target": "ref_pineau2021reproducibility"
+    },
+    {
+      "citation": "(Potts et al., 2021)",
+      "linked_text": "(Potts et al., 2021)",
+      "target": "ref_potts2021dynasent"
+    },
+    {
+      "citation": "(Wang et al., 2026)",
+      "linked_text": "(Wang et al., 2026)",
+      "target": "ref_wang2026msra"
+    },
+    {
+      "citation": "Ribeiro et al. (2020)",
+      "linked_text": "2020",
+      "target": "ref_ribeiro2020checklist"
+    },
+    {
+      "citation": "(Cohen, 1960)",
+      "linked_text": "(Cohen, 1960)",
+      "target": "ref_cohen1960agreement"
+    },
+    {
+      "citation": "Artstein and Poesio (2008)",
+      "linked_text": "2008",
+      "target": "ref_artstein2008agreement"
+    },
+    {
+      "citation": "Dror et al. (2018)",
+      "linked_text": "2018",
+      "target": "ref_dror2018significance"
+    },
+    {
+      "citation": "Liu et al. (2023)",
+      "linked_text": "2023",
+      "target": "ref_liu2023geval"
+    },
+    {
+      "citation": "(NHMRC et al., 2018)",
+      "linked_text": "(NHMRC et al., 2018)",
+      "target": "ref_researchCode"
+    },
+    {
+      "citation": "Gebru et al. (2021)",
+      "linked_text": "2021",
+      "target": "ref_gebru2021datasheets"
+    },
+    {
+      "citation": "(Potts et al., 2026)",
+      "linked_text": "(Potts et al., 2026)",
+      "target": "ref_dynasentData"
+    }
+  ],
+  "checks": {
+    "all_other_paragraph_text_unchanged": true,
+    "table_cells_unchanged": true,
+    "images_unchanged": true,
+    "native_math_expressions": 15,
+    "native_footnotes": 4,
+    "bibliography_entries": 18,
+    "internal_word_citation_links": 18,
+    "pdf_reference_destinations": 18,
+    "pdf_citation_link_rectangles": 21,
+    "all_pdf_citation_targets_on_reference_page": true
+  }
+}

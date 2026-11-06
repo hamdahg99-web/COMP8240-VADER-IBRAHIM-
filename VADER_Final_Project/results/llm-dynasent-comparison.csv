@@ -1,0 +1,61 @@
+item_id,gold_label,judge_label,supporting_phrase,confidence,explanation,archived_label,maintained_label
+r2-0019901,negative,negative,had best believe in magic,medium,"Extra service appears implausible, implying dissatisfaction.",positive,positive
+r2-0019292,positive,neutral,I felt the customer service,high,The fragment gives no clear evaluation.,neutral,neutral
+r2-0019913,positive,positive,too good,medium,The explicit praise dominates without further context.,positive,positive
+r2-0019848,positive,neutral,Grab some tacos here,low,A practical suggestion gives little explicit evaluative sentiment.,negative,negative
+r2-0019787,positive,positive,nothing that can be done to make this place better,low,"Read as already ideal, though a hopeless-place interpretation is also possible.",positive,positive
+r2-0019817,neutral,neutral,I went to hotel,high,A factual visit is reported.,neutral,neutral
+r2-0019359,positive,positive,I like being drunk,medium,The speaker explicitly expresses liking despite the correction.,negative,negative
+r2-0019800,negative,negative,bad experience,high,Both clauses criticise the service.,negative,negative
+r2-0019557,positive,positive,favorite restaurant. loved it,high,The writer expresses strong liking.,positive,positive
+r2-0019298,neutral,neutral,so many people behind the counter,medium,Staff numbers alone do not establish satisfaction.,neutral,neutral
+r2-0019627,negative,negative,wait nearly 30 minutes,medium,The delay is framed as an inconvenience.,neutral,neutral
+r2-0019361,neutral,neutral,can be found in their signature item,high,This identifies an item without evaluating it.,neutral,neutral
+r2-0019632,negative,negative,very bad and unattractive,high,The final clause explicitly rejects the place.,negative,negative
+r2-0019702,neutral,neutral,I all but the carne asada tacos,high,The incomplete wording leaves the evaluation unclear.,neutral,neutral
+r2-0019961,neutral,negative,total pizza coma and don't know why,low,The wording suggests uncomfortable overindulgence but could be playful praise.,neutral,neutral
+r2-0019722,positive,positive,Everything is well made,low,Strong praise outweighs a qualified complaint about affordability in this reading.,positive,positive
+r2-0019293,negative,negative,me thinks otherwise,high,The rhetorical question rejects returning.,positive,positive
+r2-0019485,neutral,negative,turned off the TV,low,The contrast implies frustration with the programme change.,neutral,neutral
+r2-0019829,positive,positive,a great return to normal,high,The current shuttle experience is praised after an unpleasant trip.,negative,negative
+r2-0019729,negative,negative,terrible,high,The explicit final judgement is unfavourable.,negative,negative
+r2-0019934,positive,positive,I was happy,high,The writer accepts the smaller portion and states satisfaction.,positive,positive
+r2-0019482,negative,negative,being a mean person,high,Praise of skill at meanness conveys criticism of the person.,positive,positive
+r2-0019530,neutral,negative,locked her in the trunk,high,The threatening action dominates the positive-looking word smile.,positive,positive
+r2-0019425,positive,positive,It is great,medium,The final explicit assessment is favourable despite the admonition.,positive,positive
+r2-0019311,negative,negative,exactly the way we don't like it,high,The final qualification reverses the opening praise.,positive,positive
+r2-0019683,negative,negative,not special for me,high,The speaker explicitly rejects the place's appeal.,negative,negative
+r2-0019927,negative,negative,between filing her nails and calling her boyfriend,high,The sarcastic description criticises the clerk's priorities.,positive,positive
+r2-0019904,neutral,neutral,we stop here,high,A trip and stop are described without an evaluation.,positive,positive
+r2-0019407,negative,neutral,just OK in my opinion,medium,The overall judgement is middling rather than clearly favourable or unfavourable.,positive,positive
+r2-0019394,negative,negative,appearing to care,high,The apparent praise is sarcastic criticism of insincerity.,positive,positive
+r2-0019667,neutral,neutral,Prices have been going up and down,high,Price movement is stated without approval or disapproval.,neutral,neutral
+r2-0019430,positive,positive,freaky fast to respond,high,Responsiveness is praised emphatically.,negative,negative
+r2-0019889,positive,positive,Now they have new staff,high,The current experience is favourable in contrast with the past.,negative,negative
+r2-0019647,positive,positive,my go to,high,A preferred regular choice indicates approval.,neutral,neutral
+r2-0019512,negative,negative,leftover meat,medium,The final suspicion undermines the apparent value for money.,positive,positive
+r2-0019808,neutral,neutral,has food available,high,Availability alone gives no evaluation.,neutral,neutral
+r2-0019841,neutral,neutral,make the house Italian dressing,high,The statement recounts a habitual action.,neutral,neutral
+r2-0019643,negative,negative,The worst acai bowl,high,The extreme negative judgement is explicit.,negative,negative
+r2-0019434,neutral,neutral,or could stay open far longer,high,Alternative future outcomes are described without a clear attitude.,neutral,neutral
+r2-0019438,neutral,neutral,get the individual weighed n price,low,The garbled phrase lacks a reliable favourable or unfavourable reading.,negative,negative
+r2-0019536,negative,negative,disappointed,high,The writer criticises organisation and presentation.,negative,negative
+r2-0019287,positive,positive,no one else is eavesdropping,medium,Privacy is presented as a benefit of the spacing.,negative,negative
+r2-0019717,positive,positive,attentive to my situation,high,Attentiveness conveys approval.,neutral,neutral
+r2-0019885,positive,positive,a second home,medium,Affection for the venue outweighs the sadness of missing it.,negative,negative
+r2-0019802,neutral,neutral,twice in the past week,high,Visit frequency and meal times are factual.,neutral,neutral
+r2-0019684,neutral,neutral,sometimes can order to go,medium,The availability pattern is described without explicit evaluation.,neutral,neutral
+r2-0019608,neutral,positive,which sold us,medium,The comparison ended in a favourable choice of a provider.,neutral,neutral
+r2-0019732,neutral,neutral,T-shirts proclaiming,high,A slogan is quoted rather than endorsed by the narrator.,neutral,positive
+r2-0019373,positive,positive,one h--l of a show,medium,The idiomatic emphatic wording is read as praise.,neutral,neutral
+r2-0019614,positive,positive,lived up to the hype,high,The experience met high expectations.,neutral,neutral
+r2-0019714,negative,negative,two items and one of them being root beer,medium,The description implies dissatisfaction with the limited beer selection.,neutral,neutral
+r2-0019617,positive,positive,nice option,low,The explicit final approval is read as the overall assessment.,positive,positive
+r2-0019669,negative,negative,It was a bad place,high,The closing judgement is explicitly unfavourable.,negative,negative
+r2-0019573,negative,negative,could not even make myself take a couple bites,high,The actual dish disappoints the positive anticipation.,positive,positive
+r2-0019952,neutral,neutral,get more profit,low,A financial outcome is stated without a clear emotional assessment.,positive,positive
+r2-0019782,negative,negative,It sucked,high,The writer explicitly complains about the lost time.,negative,negative
+r2-0019506,negative,negative,high prices and crowds,medium,The conditional praise is read as criticism of undesirable conditions.,positive,positive
+r2-0019907,positive,positive,pleasant meal,high,The overall dining assessment is favourable.,positive,positive
+r2-0019261,neutral,neutral,learned how to avoid the smokes,low,A learned behaviour is described without clear evaluative attitude.,negative,negative
+r2-0019888,neutral,neutral,might keep u laced up all night,low,The likely effect of concentrated coffee is described with no clear approval or complaint.,negative,negative

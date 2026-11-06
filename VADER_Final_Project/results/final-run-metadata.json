@@ -1,0 +1,31 @@
+{
+  "run_date_utc": "2026-11-04T12:34:35Z",
+  "python": "3.12.14",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "sklearn": "1.8.0",
+    "matplotlib": "3.10.8"
+  },
+  "vader_source_commit": "44fc044cd877310ee8278a0eadf34bcd50d41d06",
+  "dynasent_commit": "707b6208978bfe7ff251a0c3263c9f0552c27b48",
+  "dynasent_sha256": "33001cf394618aa38f9530c43ca87072b92f5ee609a02afa2d168d25560cedfd",
+  "seed": 8240,
+  "bootstrap_replicates": 2000,
+  "classification_thresholds": [
+    -0.05,
+    0.05
+  ],
+  "model_training": false,
+  "threshold_tuning": false,
+  "original_text_count": 23703,
+  "benchmark_text_count": 4320,
+  "constructed_text_count": 288,
+  "new_benchmark_scored": true,
+  "constructed_scored": true,
+  "human_annotation_completed": false,
+  "public_github_repository_verified": false,
+  "elapsed_seconds": 6.982276119999824
+}

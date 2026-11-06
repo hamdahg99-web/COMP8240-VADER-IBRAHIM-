@@ -1,0 +1,20 @@
+{
+  "judge": "ChatGPT/Codex assistant in the current conversation",
+  "exact_model_snapshot": "not exposed by the interface",
+  "execution_mode": "Within-session textual judgement, serialized by the assistant; not an external API call",
+  "judgement_date": "2026-11-04",
+  "temperature": "platform managed; not exposed",
+  "seed": "not exposed",
+  "sampling_seed": 8240,
+  "prompt_file": "annotations/llm_judge_prompt.txt",
+  "dynasent_items": 60,
+  "constructed_items": 60,
+  "blindness_limit": "Gold labels and VADER predictions were not included in the judge-input files. The assistant has broader conversation context and authored the constructed corpus, so this is not an independent blind model trial.",
+  "reference_policy": "DynaSent uses released human gold; constructed human agreement remains pending.",
+  "human_annotation": false,
+  "recorded_at_utc": "2026-11-04T11:59:17.592439+00:00",
+  "dynasent_input_sha256": "bb4d1ccea6bb8b839e11856bd4997daa3be6288beee13f04fd73d73c7515e1a1",
+  "dynasent_responses_sha256": "ff570632e5b6d7bbb2ce29933d71510cc8d76be0666a3b2eca1c7442aa5779fd",
+  "constructed_input_sha256": "c121c0749d1fe009ca9841c116b2d2a303305e4d1301fee4cc2127293e2a3271",
+  "constructed_responses_sha256": "f5ceda105f2356b055ce5bebf6e6b39e62cb6294efd63e5fceffcf2c8757c66d"
+}

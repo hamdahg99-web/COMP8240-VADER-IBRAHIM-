@@ -1,0 +1,86 @@
+{
+  "source_file": "Reproducing VADER and Testing Sentiment Robustness on New Short Text Data.docx",
+  "source_sha256": "a81cd9cfe4b09c675a2939ac001522d5e6d5a97356b867cc70dff3d1b3bfb593",
+  "paragraphs_with_restored_notation": {
+    "47": [
+      [
+        "valence sum is",
+        "valence sum [[v]] is"
+      ]
+    ],
+    "55": [
+      [
+        "per class.",
+        "per class [[k]]."
+      ]
+    ],
+    "84": [
+      [
+        "human mean :",
+        "human mean [[h]] :"
+      ],
+      [
+        "the notebook policy,",
+        "the notebook policy ([[h4]]),"
+      ],
+      [
+        "the unscaled released mean,",
+        "the unscaled released mean ([[h]]),"
+      ],
+      [
+        "VADER log measurement system.",
+        "VADER log measurement system ([[map]])."
+      ]
+    ],
+    "88": [
+      [
+        "tweet-like text, yields",
+        "tweet-like text, [[h4]] yields"
+      ]
+    ],
+    "96": [
+      [
+        "gets changed to from",
+        "gets changed to \u201cnot a good day\u201d ([[probe]]) from"
+      ]
+    ],
+    "126": [
+      [
+        "range from  to  and",
+        "range from [[minus4]] to [[plus4]] and"
+      ]
+    ],
+    "142": [
+      [
+        "interval is  and",
+        "interval is [[round1]] and"
+      ],
+      [
+        "interval is   .",
+        "interval is [[round2]]."
+      ]
+    ],
+    "170": [
+      [
+        "bootstrap interval is .",
+        "bootstrap interval is [[judge]]."
+      ]
+    ]
+  },
+  "footnotes_restored": {
+    "1": "Source paper: https://ojs.aaai.org/index.php/ICWSM/article/view/14550.",
+    "2": "Original released data: https://github.com/cjhutto/vaderSentiment/blob/44fc044cd877310ee8278a0eadf34bcd50d41d06/additional_resources/hutto_ICWSM_2014.tar.gz.",
+    "3": "Student project repository: publication and URL verification pending in this review draft. The accompanying project package contains the readable scripts, dependencies, results, figures and report source needed for the completed experiments.",
+    "4": "Dataset and datasheet: https://github.com/cgpotts/dynasent."
+  },
+  "original_nonempty_paragraphs": 137,
+  "bibliography_entries_preserved": 17,
+  "table_count": 8,
+  "figure_count": 4,
+  "checks": {
+    "all_existing_prose_preserved": true,
+    "table_text_unchanged": true,
+    "image_bytes_unchanged": true
+  },
+  "layout_change": "Figure 4 and its unchanged caption moved to a supplementary appendix to retain all prose within the 10-page main-body limit."
+}

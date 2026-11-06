@@ -1,0 +1,289 @@
+item_id,family_id,domain,condition,split,design_base_tone,text,provenance
+C60dc07bfa8,F01,apps,base,development,positive,The calendar app is useful.,AI-assisted authored diagnostic; no human gold labels
+Cfe3b5cf7cd,F01,apps,negation,development,positive,The calendar app is not useful.,AI-assisted authored diagnostic; no human gold labels
+C6060dced42,F01,apps,modifier,development,positive,The calendar app is very useful.,AI-assisted authored diagnostic; no human gold labels
+Cb2aaed852a,F01,apps,capitals,development,positive,The calendar app is USEFUL.,AI-assisted authored diagnostic; no human gold labels
+C258c3bbc6f,F01,apps,punctuation,development,positive,The calendar app is useful!!!,AI-assisted authored diagnostic; no human gold labels
+Cc153239bfe,F01,apps,contrast,development,positive,"The calendar app is useful, but its reminders are annoying.",AI-assisted authored diagnostic; no human gold labels
+Cf67bd50736,F02,apps,base,test,positive,The photo editor is excellent.,AI-assisted authored diagnostic; no human gold labels
+Ceeb365374f,F02,apps,negation,test,positive,The photo editor is not excellent.,AI-assisted authored diagnostic; no human gold labels
+Cbf8047d489,F02,apps,modifier,test,positive,The photo editor is really excellent.,AI-assisted authored diagnostic; no human gold labels
+C50c87bc440,F02,apps,capitals,test,positive,The photo editor is EXCELLENT.,AI-assisted authored diagnostic; no human gold labels
+Ca9238c1143,F02,apps,punctuation,test,positive,The photo editor is excellent!!!,AI-assisted authored diagnostic; no human gold labels
+C6706ab8ae0,F02,apps,contrast,test,positive,"The photo editor is excellent, but exporting pictures is frustrating.",AI-assisted authored diagnostic; no human gold labels
+Cd628b7722c,F03,apps,base,test,positive,The navigation app is helpful.,AI-assisted authored diagnostic; no human gold labels
+C1e7fbc1a0f,F03,apps,negation,test,positive,The navigation app is not helpful.,AI-assisted authored diagnostic; no human gold labels
+C613583ab96,F03,apps,modifier,test,positive,The navigation app is extremely helpful.,AI-assisted authored diagnostic; no human gold labels
+C2f125b7e5a,F03,apps,capitals,test,positive,The navigation app is HELPFUL.,AI-assisted authored diagnostic; no human gold labels
+C0db70e8e21,F03,apps,punctuation,test,positive,The navigation app is helpful!!!,AI-assisted authored diagnostic; no human gold labels
+Cbd04b1a8e8,F03,apps,contrast,test,positive,"The navigation app is helpful, but its location tracking is awful.",AI-assisted authored diagnostic; no human gold labels
+Cbebe280980,F04,apps,base,test,positive,The reading app is enjoyable.,AI-assisted authored diagnostic; no human gold labels
+C8e221de934,F04,apps,negation,test,positive,The reading app is not enjoyable.,AI-assisted authored diagnostic; no human gold labels
+Cfef9d21b92,F04,apps,modifier,test,positive,The reading app is very enjoyable.,AI-assisted authored diagnostic; no human gold labels
+C0dc6abbace,F04,apps,capitals,test,positive,The reading app is ENJOYABLE.,AI-assisted authored diagnostic; no human gold labels
+C39de4eaaa3,F04,apps,punctuation,test,positive,The reading app is enjoyable!!!,AI-assisted authored diagnostic; no human gold labels
+Cedf497f7b9,F04,apps,contrast,test,positive,"The reading app is enjoyable, but the subscription is terrible.",AI-assisted authored diagnostic; no human gold labels
+C887f392f4c,F05,apps,base,development,negative,The budgeting app is confusing.,AI-assisted authored diagnostic; no human gold labels
+C85ce4a28fa,F05,apps,negation,development,negative,The budgeting app is not confusing.,AI-assisted authored diagnostic; no human gold labels
+C0e6c38669e,F05,apps,modifier,development,negative,The budgeting app is very confusing.,AI-assisted authored diagnostic; no human gold labels
+C15cde142a9,F05,apps,capitals,development,negative,The budgeting app is CONFUSING.,AI-assisted authored diagnostic; no human gold labels
+C86da2e7397,F05,apps,punctuation,development,negative,The budgeting app is confusing!!!,AI-assisted authored diagnostic; no human gold labels
+C008fda5f39,F05,apps,contrast,development,negative,"The budgeting app is confusing, but the support team is excellent.",AI-assisted authored diagnostic; no human gold labels
+C22964ace99,F06,apps,base,test,negative,The fitness app is disappointing.,AI-assisted authored diagnostic; no human gold labels
+C1830027d7c,F06,apps,negation,test,negative,The fitness app is not disappointing.,AI-assisted authored diagnostic; no human gold labels
+C62e54700cb,F06,apps,modifier,test,negative,The fitness app is really disappointing.,AI-assisted authored diagnostic; no human gold labels
+Cfa0086ae4b,F06,apps,capitals,test,negative,The fitness app is DISAPPOINTING.,AI-assisted authored diagnostic; no human gold labels
+C3e3dd6a640,F06,apps,punctuation,test,negative,The fitness app is disappointing!!!,AI-assisted authored diagnostic; no human gold labels
+Cfd0b48296d,F06,apps,contrast,test,negative,"The fitness app is disappointing, but its exercise videos are helpful.",AI-assisted authored diagnostic; no human gold labels
+Cd4680adf6b,F07,apps,base,test,negative,The shopping app is frustrating.,AI-assisted authored diagnostic; no human gold labels
+Cbe34279739,F07,apps,negation,test,negative,The shopping app is not frustrating.,AI-assisted authored diagnostic; no human gold labels
+C84a0262357,F07,apps,modifier,test,negative,The shopping app is extremely frustrating.,AI-assisted authored diagnostic; no human gold labels
+Cc210e5dac0,F07,apps,capitals,test,negative,The shopping app is FRUSTRATING.,AI-assisted authored diagnostic; no human gold labels
+Cec685ebe1b,F07,apps,punctuation,test,negative,The shopping app is frustrating!!!,AI-assisted authored diagnostic; no human gold labels
+C7a10c2e981,F07,apps,contrast,test,negative,"The shopping app is frustrating, but the refunds are reliable.",AI-assisted authored diagnostic; no human gold labels
+C5dd03f2204,F08,apps,base,test,negative,The music app is awful.,AI-assisted authored diagnostic; no human gold labels
+C589479e8f4,F08,apps,negation,test,negative,The music app is not awful.,AI-assisted authored diagnostic; no human gold labels
+Ca6ba65b400,F08,apps,modifier,test,negative,The music app is very awful.,AI-assisted authored diagnostic; no human gold labels
+C86d59bb201,F08,apps,capitals,test,negative,The music app is AWFUL.,AI-assisted authored diagnostic; no human gold labels
+C301903b48b,F08,apps,punctuation,test,negative,The music app is awful!!!,AI-assisted authored diagnostic; no human gold labels
+Ca36eec0c23,F08,apps,contrast,test,negative,"The music app is awful, but its song recommendations are great.",AI-assisted authored diagnostic; no human gold labels
+C4de6da925a,F09,apps,base,development,neutral,The notes app has a settings page.,AI-assisted authored diagnostic; no human gold labels
+Cc8e3fd31bb,F09,apps,negation,development,neutral,The notes app does not have a settings page.,AI-assisted authored diagnostic; no human gold labels
+Cbdb24bf257,F09,apps,modifier,development,neutral,The notes app has exactly one settings page.,AI-assisted authored diagnostic; no human gold labels
+C062ffebb25,F09,apps,capitals,development,neutral,The notes app has a settings PAGE.,AI-assisted authored diagnostic; no human gold labels
+C657f4a7fff,F09,apps,punctuation,development,neutral,The notes app has a settings page!!!,AI-assisted authored diagnostic; no human gold labels
+Cfa1e7834bb,F09,apps,contrast,development,neutral,"The notes app has a settings page, but finding saved notes is frustrating.",AI-assisted authored diagnostic; no human gold labels
+C58e40a7e8f,F10,apps,base,test,neutral,The weather app lists three cities.,AI-assisted authored diagnostic; no human gold labels
+C60d50e01c4,F10,apps,negation,test,neutral,The weather app does not list three cities.,AI-assisted authored diagnostic; no human gold labels
+C14df3b5dc5,F10,apps,modifier,test,neutral,The weather app lists exactly three cities.,AI-assisted authored diagnostic; no human gold labels
+C52088cd1d4,F10,apps,capitals,test,neutral,The weather app lists three CITIES.,AI-assisted authored diagnostic; no human gold labels
+Cc68953c3d2,F10,apps,punctuation,test,neutral,The weather app lists three cities!!!,AI-assisted authored diagnostic; no human gold labels
+C126487674e,F10,apps,contrast,test,neutral,"The weather app lists three cities, but its forecasts are excellent.",AI-assisted authored diagnostic; no human gold labels
+C7fd34ce4d4,F11,apps,base,test,neutral,The messaging app uses a blue icon.,AI-assisted authored diagnostic; no human gold labels
+C9ff1032917,F11,apps,negation,test,neutral,The messaging app does not use a blue icon.,AI-assisted authored diagnostic; no human gold labels
+C9defdd8961,F11,apps,modifier,test,neutral,The messaging app uses a completely blue icon.,AI-assisted authored diagnostic; no human gold labels
+C8e215f4910,F11,apps,capitals,test,neutral,The messaging app uses a blue ICON.,AI-assisted authored diagnostic; no human gold labels
+C22096b8f76,F11,apps,punctuation,test,neutral,The messaging app uses a blue icon!!!,AI-assisted authored diagnostic; no human gold labels
+C5b8c66be4c,F11,apps,contrast,test,neutral,"The messaging app uses a blue icon, but sending attachments is terrible.",AI-assisted authored diagnostic; no human gold labels
+C2af06eb811,F12,apps,base,test,neutral,The timer app displays the date.,AI-assisted authored diagnostic; no human gold labels
+Cd408acd23b,F12,apps,negation,test,neutral,The timer app does not display the date.,AI-assisted authored diagnostic; no human gold labels
+C4c7a5a994a,F12,apps,modifier,test,neutral,The timer app displays the full date.,AI-assisted authored diagnostic; no human gold labels
+C31cca64b5a,F12,apps,capitals,test,neutral,The timer app displays the DATE.,AI-assisted authored diagnostic; no human gold labels
+C9a8b6376c4,F12,apps,punctuation,test,neutral,The timer app displays the date!!!,AI-assisted authored diagnostic; no human gold labels
+C573717d42a,F12,apps,contrast,test,neutral,"The timer app displays the date, but its simple controls are helpful.",AI-assisted authored diagnostic; no human gold labels
+C08e5652c5c,F13,transport,base,development,positive,The train service is reliable.,AI-assisted authored diagnostic; no human gold labels
+Cb8ae5cd023,F13,transport,negation,development,positive,The train service is not reliable.,AI-assisted authored diagnostic; no human gold labels
+C5571141fec,F13,transport,modifier,development,positive,The train service is very reliable.,AI-assisted authored diagnostic; no human gold labels
+Ce2e9558912,F13,transport,capitals,development,positive,The train service is RELIABLE.,AI-assisted authored diagnostic; no human gold labels
+C41f66896ef,F13,transport,punctuation,development,positive,The train service is reliable!!!,AI-assisted authored diagnostic; no human gold labels
+C79702de092,F13,transport,contrast,development,positive,"The train service is reliable, but the station announcements are confusing.",AI-assisted authored diagnostic; no human gold labels
+Cbbc8abfb35,F14,transport,base,test,positive,The bus driver is friendly.,AI-assisted authored diagnostic; no human gold labels
+C1488873429,F14,transport,negation,test,positive,The bus driver is not friendly.,AI-assisted authored diagnostic; no human gold labels
+C2a429639a8,F14,transport,modifier,test,positive,The bus driver is very friendly.,AI-assisted authored diagnostic; no human gold labels
+C771a2ecd09,F14,transport,capitals,test,positive,The bus driver is FRIENDLY.,AI-assisted authored diagnostic; no human gold labels
+C37a6ba8451,F14,transport,punctuation,test,positive,The bus driver is friendly!!!,AI-assisted authored diagnostic; no human gold labels
+C16246162a9,F14,transport,contrast,test,positive,"The bus driver is friendly, but the late departures are annoying.",AI-assisted authored diagnostic; no human gold labels
+Ce72111f0b0,F15,transport,base,test,positive,The bicycle rental is convenient.,AI-assisted authored diagnostic; no human gold labels
+C28e9ab9c28,F15,transport,negation,test,positive,The bicycle rental is not convenient.,AI-assisted authored diagnostic; no human gold labels
+C92274b7659,F15,transport,modifier,test,positive,The bicycle rental is really convenient.,AI-assisted authored diagnostic; no human gold labels
+C8c99ae6a0f,F15,transport,capitals,test,positive,The bicycle rental is CONVENIENT.,AI-assisted authored diagnostic; no human gold labels
+C9b4d5fadc1,F15,transport,punctuation,test,positive,The bicycle rental is convenient!!!,AI-assisted authored diagnostic; no human gold labels
+Ce85d3d98b7,F15,transport,contrast,test,positive,"The bicycle rental is convenient, but the broken locks are frustrating.",AI-assisted authored diagnostic; no human gold labels
+Cd536aa3f00,F16,transport,base,test,positive,The taxi ride is comfortable.,AI-assisted authored diagnostic; no human gold labels
+Cbe3b26b746,F16,transport,negation,test,positive,The taxi ride is not comfortable.,AI-assisted authored diagnostic; no human gold labels
+C013228537b,F16,transport,modifier,test,positive,The taxi ride is extremely comfortable.,AI-assisted authored diagnostic; no human gold labels
+C2c2bb8968a,F16,transport,capitals,test,positive,The taxi ride is COMFORTABLE.,AI-assisted authored diagnostic; no human gold labels
+C67ba9960bf,F16,transport,punctuation,test,positive,The taxi ride is comfortable!!!,AI-assisted authored diagnostic; no human gold labels
+C13307fdb4e,F16,transport,contrast,test,positive,"The taxi ride is comfortable, but the unexpected fee is unfair.",AI-assisted authored diagnostic; no human gold labels
+Cf95cfa5682,F17,transport,base,development,negative,The ferry service is disappointing.,AI-assisted authored diagnostic; no human gold labels
+Ce39fda5a53,F17,transport,negation,development,negative,The ferry service is not disappointing.,AI-assisted authored diagnostic; no human gold labels
+C1e844c5cfc,F17,transport,modifier,development,negative,The ferry service is very disappointing.,AI-assisted authored diagnostic; no human gold labels
+Ca730c66e65,F17,transport,capitals,development,negative,The ferry service is DISAPPOINTING.,AI-assisted authored diagnostic; no human gold labels
+C519bd1ab3b,F17,transport,punctuation,development,negative,The ferry service is disappointing!!!,AI-assisted authored diagnostic; no human gold labels
+C33eeadbdd6,F17,transport,contrast,development,negative,"The ferry service is disappointing, but the crew is friendly.",AI-assisted authored diagnostic; no human gold labels
+C80f93bc0ed,F18,transport,base,test,negative,The ticket machine is frustrating.,AI-assisted authored diagnostic; no human gold labels
+C548a3e7703,F18,transport,negation,test,negative,The ticket machine is not frustrating.,AI-assisted authored diagnostic; no human gold labels
+C20ebac5c88,F18,transport,modifier,test,negative,The ticket machine is really frustrating.,AI-assisted authored diagnostic; no human gold labels
+C3658d9a956,F18,transport,capitals,test,negative,The ticket machine is FRUSTRATING.,AI-assisted authored diagnostic; no human gold labels
+C2431809aff,F18,transport,punctuation,test,negative,The ticket machine is frustrating!!!,AI-assisted authored diagnostic; no human gold labels
+Cb1bd29b541,F18,transport,contrast,test,negative,"The ticket machine is frustrating, but the staff are helpful.",AI-assisted authored diagnostic; no human gold labels
+Cc04d09c3f3,F19,transport,base,test,negative,The airport transfer is terrible.,AI-assisted authored diagnostic; no human gold labels
+Cec46cce80a,F19,transport,negation,test,negative,The airport transfer is not terrible.,AI-assisted authored diagnostic; no human gold labels
+Caf654ca380,F19,transport,modifier,test,negative,The airport transfer is very terrible.,AI-assisted authored diagnostic; no human gold labels
+Cfb2547a0dc,F19,transport,capitals,test,negative,The airport transfer is TERRIBLE.,AI-assisted authored diagnostic; no human gold labels
+C05d0fff8f1,F19,transport,punctuation,test,negative,The airport transfer is terrible!!!,AI-assisted authored diagnostic; no human gold labels
+C9e22a8b54d,F19,transport,contrast,test,negative,"The airport transfer is terrible, but the driver is excellent.",AI-assisted authored diagnostic; no human gold labels
+Cdd04b62709,F20,transport,base,test,negative,The tram connection is confusing.,AI-assisted authored diagnostic; no human gold labels
+C8609c8155d,F20,transport,negation,test,negative,The tram connection is not confusing.,AI-assisted authored diagnostic; no human gold labels
+C465ba19324,F20,transport,modifier,test,negative,The tram connection is extremely confusing.,AI-assisted authored diagnostic; no human gold labels
+Cb7adac3eaa,F20,transport,capitals,test,negative,The tram connection is CONFUSING.,AI-assisted authored diagnostic; no human gold labels
+C94e3c05888,F20,transport,punctuation,test,negative,The tram connection is confusing!!!,AI-assisted authored diagnostic; no human gold labels
+Cb95f8ed0d9,F20,transport,contrast,test,negative,"The tram connection is confusing, but the journey planner is useful.",AI-assisted authored diagnostic; no human gold labels
+Cb66f61b207,F21,transport,base,development,neutral,The bus departs at nine.,AI-assisted authored diagnostic; no human gold labels
+Ce4a237f010,F21,transport,negation,development,neutral,The bus does not depart at nine.,AI-assisted authored diagnostic; no human gold labels
+Cbba00793df,F21,transport,modifier,development,neutral,The bus departs at exactly nine.,AI-assisted authored diagnostic; no human gold labels
+Ca36cf99a7c,F21,transport,capitals,development,neutral,The bus departs at NINE.,AI-assisted authored diagnostic; no human gold labels
+C22255b8e9b,F21,transport,punctuation,development,neutral,The bus departs at nine!!!,AI-assisted authored diagnostic; no human gold labels
+C32bb53e6cb,F21,transport,contrast,development,neutral,"The bus departs at nine, but the long wait is annoying.",AI-assisted authored diagnostic; no human gold labels
+Cbbd2dd1158,F22,transport,base,test,neutral,The train has six carriages.,AI-assisted authored diagnostic; no human gold labels
+Cb22c42bb43,F22,transport,negation,test,neutral,The train does not have six carriages.,AI-assisted authored diagnostic; no human gold labels
+Cbcfc275f36,F22,transport,modifier,test,neutral,The train has exactly six carriages.,AI-assisted authored diagnostic; no human gold labels
+C46ebf76df2,F22,transport,capitals,test,neutral,The train has six CARRIAGES.,AI-assisted authored diagnostic; no human gold labels
+C6487d2fe06,F22,transport,punctuation,test,neutral,The train has six carriages!!!,AI-assisted authored diagnostic; no human gold labels
+C5d320209cd,F22,transport,contrast,test,neutral,"The train has six carriages, but the spacious seats are comfortable.",AI-assisted authored diagnostic; no human gold labels
+C226e3393b1,F23,transport,base,test,neutral,The ferry stops at two terminals.,AI-assisted authored diagnostic; no human gold labels
+Cf988833b31,F23,transport,negation,test,neutral,The ferry does not stop at two terminals.,AI-assisted authored diagnostic; no human gold labels
+Cae5f8b5a70,F23,transport,modifier,test,neutral,The ferry stops at exactly two terminals.,AI-assisted authored diagnostic; no human gold labels
+C739e8ff85c,F23,transport,capitals,test,neutral,The ferry stops at two TERMINALS.,AI-assisted authored diagnostic; no human gold labels
+Cc865d7aa49,F23,transport,punctuation,test,neutral,The ferry stops at two terminals!!!,AI-assisted authored diagnostic; no human gold labels
+C50cde41bc9,F23,transport,contrast,test,neutral,"The ferry stops at two terminals, but the boarding process is awful.",AI-assisted authored diagnostic; no human gold labels
+C07f5460026,F24,transport,base,test,neutral,The station has an east entrance.,AI-assisted authored diagnostic; no human gold labels
+C45b327d5a2,F24,transport,negation,test,neutral,The station does not have an east entrance.,AI-assisted authored diagnostic; no human gold labels
+C5ac7ca9f74,F24,transport,modifier,test,neutral,The station has a separate east entrance.,AI-assisted authored diagnostic; no human gold labels
+C7a96bdb2fc,F24,transport,capitals,test,neutral,The station has an east ENTRANCE.,AI-assisted authored diagnostic; no human gold labels
+Caf46ce0148,F24,transport,punctuation,test,neutral,The station has an east entrance!!!,AI-assisted authored diagnostic; no human gold labels
+Ce292303cf2,F24,transport,contrast,test,neutral,"The station has an east entrance, but the clear signs are helpful.",AI-assisted authored diagnostic; no human gold labels
+Cc8b1fcfac6,F25,university,base,development,positive,The library desk is helpful.,AI-assisted authored diagnostic; no human gold labels
+C9cca71bfab,F25,university,negation,development,positive,The library desk is not helpful.,AI-assisted authored diagnostic; no human gold labels
+Cce13b8ca25,F25,university,modifier,development,positive,The library desk is very helpful.,AI-assisted authored diagnostic; no human gold labels
+Cd81995b313,F25,university,capitals,development,positive,The library desk is HELPFUL.,AI-assisted authored diagnostic; no human gold labels
+Ced04390f82,F25,university,punctuation,development,positive,The library desk is helpful!!!,AI-assisted authored diagnostic; no human gold labels
+C239ab75b8c,F25,university,contrast,development,positive,"The library desk is helpful, but the booking website is terrible.",AI-assisted authored diagnostic; no human gold labels
+C9694bdeebf,F26,university,base,test,positive,The tutor is supportive.,AI-assisted authored diagnostic; no human gold labels
+Cc33acfd8ba,F26,university,negation,test,positive,The tutor is not supportive.,AI-assisted authored diagnostic; no human gold labels
+Cef07e0b56b,F26,university,modifier,test,positive,The tutor is extremely supportive.,AI-assisted authored diagnostic; no human gold labels
+C995cafc9e3,F26,university,capitals,test,positive,The tutor is SUPPORTIVE.,AI-assisted authored diagnostic; no human gold labels
+Ceec8bccf9c,F26,university,punctuation,test,positive,The tutor is supportive!!!,AI-assisted authored diagnostic; no human gold labels
+C1c473fb80c,F26,university,contrast,test,positive,"The tutor is supportive, but the assessment instructions are confusing.",AI-assisted authored diagnostic; no human gold labels
+Cb364ea38f2,F27,university,base,test,positive,The laboratory session is enjoyable.,AI-assisted authored diagnostic; no human gold labels
+Cf724c16a24,F27,university,negation,test,positive,The laboratory session is not enjoyable.,AI-assisted authored diagnostic; no human gold labels
+Cd6db6ffafb,F27,university,modifier,test,positive,The laboratory session is very enjoyable.,AI-assisted authored diagnostic; no human gold labels
+C48c83a24e2,F27,university,capitals,test,positive,The laboratory session is ENJOYABLE.,AI-assisted authored diagnostic; no human gold labels
+Ce39289b953,F27,university,punctuation,test,positive,The laboratory session is enjoyable!!!,AI-assisted authored diagnostic; no human gold labels
+Cfd02353b94,F27,university,contrast,test,positive,"The laboratory session is enjoyable, but the equipment is unreliable.",AI-assisted authored diagnostic; no human gold labels
+C41109529dc,F28,university,base,test,positive,The enrolment adviser is friendly.,AI-assisted authored diagnostic; no human gold labels
+Cb7da9bae1e,F28,university,negation,test,positive,The enrolment adviser is not friendly.,AI-assisted authored diagnostic; no human gold labels
+C129979936e,F28,university,modifier,test,positive,The enrolment adviser is really friendly.,AI-assisted authored diagnostic; no human gold labels
+C03ea24abd2,F28,university,capitals,test,positive,The enrolment adviser is FRIENDLY.,AI-assisted authored diagnostic; no human gold labels
+C6f6845e515,F28,university,punctuation,test,positive,The enrolment adviser is friendly!!!,AI-assisted authored diagnostic; no human gold labels
+Cf7c78b3ffc,F28,university,contrast,test,positive,"The enrolment adviser is friendly, but the delayed response is frustrating.",AI-assisted authored diagnostic; no human gold labels
+C5c58f058a4,F29,university,base,development,negative,The timetable portal is confusing.,AI-assisted authored diagnostic; no human gold labels
+Ca3bee4f6be,F29,university,negation,development,negative,The timetable portal is not confusing.,AI-assisted authored diagnostic; no human gold labels
+C7870bc5d0e,F29,university,modifier,development,negative,The timetable portal is very confusing.,AI-assisted authored diagnostic; no human gold labels
+Ca2ac85ce03,F29,university,capitals,development,negative,The timetable portal is CONFUSING.,AI-assisted authored diagnostic; no human gold labels
+C69d31c0d11,F29,university,punctuation,development,negative,The timetable portal is confusing!!!,AI-assisted authored diagnostic; no human gold labels
+Cf894a1029a,F29,university,contrast,development,negative,"The timetable portal is confusing, but the printed guide is useful.",AI-assisted authored diagnostic; no human gold labels
+Cb0670fe025,F30,university,base,test,negative,The campus shuttle is disappointing.,AI-assisted authored diagnostic; no human gold labels
+C66adcb16b9,F30,university,negation,test,negative,The campus shuttle is not disappointing.,AI-assisted authored diagnostic; no human gold labels
+C2bf3138ff7,F30,university,modifier,test,negative,The campus shuttle is really disappointing.,AI-assisted authored diagnostic; no human gold labels
+Cc8f3eafd3e,F30,university,capitals,test,negative,The campus shuttle is DISAPPOINTING.,AI-assisted authored diagnostic; no human gold labels
+C2d578ecd32,F30,university,punctuation,test,negative,The campus shuttle is disappointing!!!,AI-assisted authored diagnostic; no human gold labels
+Cd1b1cf6b35,F30,university,contrast,test,negative,"The campus shuttle is disappointing, but the driver is friendly.",AI-assisted authored diagnostic; no human gold labels
+C53c9e11321,F31,university,base,test,negative,The accommodation office is unhelpful.,AI-assisted authored diagnostic; no human gold labels
+C752c693d60,F31,university,negation,test,negative,The accommodation office is not unhelpful.,AI-assisted authored diagnostic; no human gold labels
+C3df61a6cab,F31,university,modifier,test,negative,The accommodation office is extremely unhelpful.,AI-assisted authored diagnostic; no human gold labels
+Ccf15d66cb0,F31,university,capitals,test,negative,The accommodation office is UNHELPFUL.,AI-assisted authored diagnostic; no human gold labels
+Cc0bfbb0acc,F31,university,punctuation,test,negative,The accommodation office is unhelpful!!!,AI-assisted authored diagnostic; no human gold labels
+Ce31d351781,F31,university,contrast,test,negative,"The accommodation office is unhelpful, but the maintenance team is excellent.",AI-assisted authored diagnostic; no human gold labels
+C6f9fdb85de,F32,university,base,test,negative,The online lecture is boring.,AI-assisted authored diagnostic; no human gold labels
+Cdda96b9b39,F32,university,negation,test,negative,The online lecture is not boring.,AI-assisted authored diagnostic; no human gold labels
+Cf32a73c83e,F32,university,modifier,test,negative,The online lecture is very boring.,AI-assisted authored diagnostic; no human gold labels
+C65e11aadd4,F32,university,capitals,test,negative,The online lecture is BORING.,AI-assisted authored diagnostic; no human gold labels
+C8b1eeab79f,F32,university,punctuation,test,negative,The online lecture is boring!!!,AI-assisted authored diagnostic; no human gold labels
+Ce456d0cf7b,F32,university,contrast,test,negative,"The online lecture is boring, but the discussion afterwards is enjoyable.",AI-assisted authored diagnostic; no human gold labels
+C5c70bea86d,F33,university,base,development,neutral,The library opens at eight.,AI-assisted authored diagnostic; no human gold labels
+Cdf5012dc57,F33,university,negation,development,neutral,The library does not open at eight.,AI-assisted authored diagnostic; no human gold labels
+C16876f375b,F33,university,modifier,development,neutral,The library opens at exactly eight.,AI-assisted authored diagnostic; no human gold labels
+C780176deeb,F33,university,capitals,development,neutral,The library opens at EIGHT.,AI-assisted authored diagnostic; no human gold labels
+Cf391221d9b,F33,university,punctuation,development,neutral,The library opens at eight!!!,AI-assisted authored diagnostic; no human gold labels
+C664e80b4cf,F33,university,contrast,development,neutral,"The library opens at eight, but the study rooms are excellent.",AI-assisted authored diagnostic; no human gold labels
+Cb10111603a,F34,university,base,test,neutral,The seminar takes place in room twelve.,AI-assisted authored diagnostic; no human gold labels
+Ca61c7de99e,F34,university,negation,test,neutral,The seminar does not take place in room twelve.,AI-assisted authored diagnostic; no human gold labels
+C9e409339ee,F34,university,modifier,test,neutral,The seminar takes place in exactly the same room.,AI-assisted authored diagnostic; no human gold labels
+C10595d508d,F34,university,capitals,test,neutral,The seminar takes place in room TWELVE.,AI-assisted authored diagnostic; no human gold labels
+C9a5020a5d0,F34,university,punctuation,test,neutral,The seminar takes place in room twelve!!!,AI-assisted authored diagnostic; no human gold labels
+C31ff825280,F34,university,contrast,test,neutral,"The seminar takes place in room twelve, but the noise outside is annoying.",AI-assisted authored diagnostic; no human gold labels
+C912cdd279e,F35,university,base,test,neutral,The course has two tutorials.,AI-assisted authored diagnostic; no human gold labels
+C6c5a1e70cd,F35,university,negation,test,neutral,The course does not have two tutorials.,AI-assisted authored diagnostic; no human gold labels
+Cdc4baecc83,F35,university,modifier,test,neutral,The course has exactly two tutorials.,AI-assisted authored diagnostic; no human gold labels
+C3dcb78e312,F35,university,capitals,test,neutral,The course has two TUTORIALS.,AI-assisted authored diagnostic; no human gold labels
+C1fff872552,F35,university,punctuation,test,neutral,The course has two tutorials!!!,AI-assisted authored diagnostic; no human gold labels
+C42c3e9e523,F35,university,contrast,test,neutral,"The course has two tutorials, but the practical examples are helpful.",AI-assisted authored diagnostic; no human gold labels
+Cbb72ed2885,F36,university,base,test,neutral,The student card contains a photograph.,AI-assisted authored diagnostic; no human gold labels
+Cd596dc861c,F36,university,negation,test,neutral,The student card does not contain a photograph.,AI-assisted authored diagnostic; no human gold labels
+C53bac827cf,F36,university,modifier,test,neutral,The student card contains one additional photograph.,AI-assisted authored diagnostic; no human gold labels
+C9c63b4ccb9,F36,university,capitals,test,neutral,The student card contains a PHOTOGRAPH.,AI-assisted authored diagnostic; no human gold labels
+C98c41ee5db,F36,university,punctuation,test,neutral,The student card contains a photograph!!!,AI-assisted authored diagnostic; no human gold labels
+Cbdd1ed059e,F36,university,contrast,test,neutral,"The student card contains a photograph, but replacing it is frustrating.",AI-assisted authored diagnostic; no human gold labels
+C344050991e,F37,service,base,development,positive,The booking agent is helpful.,AI-assisted authored diagnostic; no human gold labels
+C76670d6cc5,F37,service,negation,development,positive,The booking agent is not helpful.,AI-assisted authored diagnostic; no human gold labels
+Ce0c5b5a02d,F37,service,modifier,development,positive,The booking agent is very helpful.,AI-assisted authored diagnostic; no human gold labels
+C2b83360865,F37,service,capitals,development,positive,The booking agent is HELPFUL.,AI-assisted authored diagnostic; no human gold labels
+C1ae48eafde,F37,service,punctuation,development,positive,The booking agent is helpful!!!,AI-assisted authored diagnostic; no human gold labels
+C7896ae9da4,F37,service,contrast,development,positive,"The booking agent is helpful, but the refund process is frustrating.",AI-assisted authored diagnostic; no human gold labels
+Cf61f9ef65c,F38,service,base,test,positive,The repair service is excellent.,AI-assisted authored diagnostic; no human gold labels
+Ccd32e90807,F38,service,negation,test,positive,The repair service is not excellent.,AI-assisted authored diagnostic; no human gold labels
+C2effa418d0,F38,service,modifier,test,positive,The repair service is really excellent.,AI-assisted authored diagnostic; no human gold labels
+C6886412ba9,F38,service,capitals,test,positive,The repair service is EXCELLENT.,AI-assisted authored diagnostic; no human gold labels
+Cec27466f9f,F38,service,punctuation,test,positive,The repair service is excellent!!!,AI-assisted authored diagnostic; no human gold labels
+Cc3cd3d8c7a,F38,service,contrast,test,positive,"The repair service is excellent, but the appointment system is awful.",AI-assisted authored diagnostic; no human gold labels
+C53d0e08e76,F39,service,base,test,positive,The delivery team is reliable.,AI-assisted authored diagnostic; no human gold labels
+C95ee65fc5a,F39,service,negation,test,positive,The delivery team is not reliable.,AI-assisted authored diagnostic; no human gold labels
+C9e9bc4e36f,F39,service,modifier,test,positive,The delivery team is very reliable.,AI-assisted authored diagnostic; no human gold labels
+Ccb3770055f,F39,service,capitals,test,positive,The delivery team is RELIABLE.,AI-assisted authored diagnostic; no human gold labels
+Ca519953a51,F39,service,punctuation,test,positive,The delivery team is reliable!!!,AI-assisted authored diagnostic; no human gold labels
+Ccac9647c08,F39,service,contrast,test,positive,"The delivery team is reliable, but the damaged packaging is disappointing.",AI-assisted authored diagnostic; no human gold labels
+Ca172b1031f,F40,service,base,test,positive,The receptionist is friendly.,AI-assisted authored diagnostic; no human gold labels
+Cd8aefb5cc7,F40,service,negation,test,positive,The receptionist is not friendly.,AI-assisted authored diagnostic; no human gold labels
+C06738448ee,F40,service,modifier,test,positive,The receptionist is extremely friendly.,AI-assisted authored diagnostic; no human gold labels
+C5734e25132,F40,service,capitals,test,positive,The receptionist is FRIENDLY.,AI-assisted authored diagnostic; no human gold labels
+C6b3f9c6e70,F40,service,punctuation,test,positive,The receptionist is friendly!!!,AI-assisted authored diagnostic; no human gold labels
+Cb98f85d11e,F40,service,contrast,test,positive,"The receptionist is friendly, but the hidden charge is unfair.",AI-assisted authored diagnostic; no human gold labels
+C7fb64a03cb,F41,service,base,development,negative,The refund process is frustrating.,AI-assisted authored diagnostic; no human gold labels
+C8c417404fd,F41,service,negation,development,negative,The refund process is not frustrating.,AI-assisted authored diagnostic; no human gold labels
+Ca619b2f4e8,F41,service,modifier,development,negative,The refund process is very frustrating.,AI-assisted authored diagnostic; no human gold labels
+Cd2365233cc,F41,service,capitals,development,negative,The refund process is FRUSTRATING.,AI-assisted authored diagnostic; no human gold labels
+C5ef18fd6f7,F41,service,punctuation,development,negative,The refund process is frustrating!!!,AI-assisted authored diagnostic; no human gold labels
+C7492bdafff,F41,service,contrast,development,negative,"The refund process is frustrating, but the adviser is helpful.",AI-assisted authored diagnostic; no human gold labels
+C1cc58812de,F42,service,base,test,negative,The support chat is useless.,AI-assisted authored diagnostic; no human gold labels
+Cb0154f6c70,F42,service,negation,test,negative,The support chat is not useless.,AI-assisted authored diagnostic; no human gold labels
+Cba762354fb,F42,service,modifier,test,negative,The support chat is really useless.,AI-assisted authored diagnostic; no human gold labels
+Cca74bce909,F42,service,capitals,test,negative,The support chat is USELESS.,AI-assisted authored diagnostic; no human gold labels
+C7940262790,F42,service,punctuation,test,negative,The support chat is useless!!!,AI-assisted authored diagnostic; no human gold labels
+C564698feb2,F42,service,contrast,test,negative,"The support chat is useless, but the telephone team is excellent.",AI-assisted authored diagnostic; no human gold labels
+C7e58c67e67,F43,service,base,test,negative,The cancellation policy is unfair.,AI-assisted authored diagnostic; no human gold labels
+C486c22d3ab,F43,service,negation,test,negative,The cancellation policy is not unfair.,AI-assisted authored diagnostic; no human gold labels
+C8761245867,F43,service,modifier,test,negative,The cancellation policy is extremely unfair.,AI-assisted authored diagnostic; no human gold labels
+C38f221cdc9,F43,service,capitals,test,negative,The cancellation policy is UNFAIR.,AI-assisted authored diagnostic; no human gold labels
+C9dd6c86c17,F43,service,punctuation,test,negative,The cancellation policy is unfair!!!,AI-assisted authored diagnostic; no human gold labels
+C29f2f356da,F43,service,contrast,test,negative,"The cancellation policy is unfair, but the agent is supportive.",AI-assisted authored diagnostic; no human gold labels
+Cf94fd44438,F44,service,base,test,negative,The waiting area is unpleasant.,AI-assisted authored diagnostic; no human gold labels
+C154e193b17,F44,service,negation,test,negative,The waiting area is not unpleasant.,AI-assisted authored diagnostic; no human gold labels
+C8501d61052,F44,service,modifier,test,negative,The waiting area is very unpleasant.,AI-assisted authored diagnostic; no human gold labels
+C99c151bd37,F44,service,capitals,test,negative,The waiting area is UNPLEASANT.,AI-assisted authored diagnostic; no human gold labels
+C9101494798,F44,service,punctuation,test,negative,The waiting area is unpleasant!!!,AI-assisted authored diagnostic; no human gold labels
+C8d460d8517,F44,service,contrast,test,negative,"The waiting area is unpleasant, but the staff are friendly.",AI-assisted authored diagnostic; no human gold labels
+Ccb72218183,F45,service,base,development,neutral,The receipt lists two items.,AI-assisted authored diagnostic; no human gold labels
+Ca030ba2908,F45,service,negation,development,neutral,The receipt does not list two items.,AI-assisted authored diagnostic; no human gold labels
+C82d9d43298,F45,service,modifier,development,neutral,The receipt lists exactly two items.,AI-assisted authored diagnostic; no human gold labels
+C408fd7ea54,F45,service,capitals,development,neutral,The receipt lists two ITEMS.,AI-assisted authored diagnostic; no human gold labels
+C931009259a,F45,service,punctuation,development,neutral,The receipt lists two items!!!,AI-assisted authored diagnostic; no human gold labels
+Cb25370c665,F45,service,contrast,development,neutral,"The receipt lists two items, but the unexpected charge is unfair.",AI-assisted authored diagnostic; no human gold labels
+C6b47ed1682,F46,service,base,test,neutral,The help desk closes at five.,AI-assisted authored diagnostic; no human gold labels
+C32446b3c8b,F46,service,negation,test,neutral,The help desk does not close at five.,AI-assisted authored diagnostic; no human gold labels
+C3414186aab,F46,service,modifier,test,neutral,The help desk closes at exactly five.,AI-assisted authored diagnostic; no human gold labels
+C0dff809e56,F46,service,capitals,test,neutral,The help desk closes at FIVE.,AI-assisted authored diagnostic; no human gold labels
+Ca595760545,F46,service,punctuation,test,neutral,The help desk closes at five!!!,AI-assisted authored diagnostic; no human gold labels
+Ca90b9a382e,F46,service,contrast,test,neutral,"The help desk closes at five, but the email response is helpful.",AI-assisted authored diagnostic; no human gold labels
+C3e88b54f25,F47,service,base,test,neutral,The parcel has a tracking number.,AI-assisted authored diagnostic; no human gold labels
+Cb243349764,F47,service,negation,test,neutral,The parcel does not have a tracking number.,AI-assisted authored diagnostic; no human gold labels
+C7706bb6eb2,F47,service,modifier,test,neutral,The parcel has a separate tracking number.,AI-assisted authored diagnostic; no human gold labels
+Cc8306ef63a,F47,service,capitals,test,neutral,The parcel has a tracking NUMBER.,AI-assisted authored diagnostic; no human gold labels
+C8b3d3ce1cb,F47,service,punctuation,test,neutral,The parcel has a tracking number!!!,AI-assisted authored diagnostic; no human gold labels
+C635a5f2a9a,F47,service,contrast,test,neutral,"The parcel has a tracking number, but the delivery delay is frustrating.",AI-assisted authored diagnostic; no human gold labels
+C402314d3cb,F48,service,base,test,neutral,The appointment is on Thursday.,AI-assisted authored diagnostic; no human gold labels
+Cd1c54f0e0c,F48,service,negation,test,neutral,The appointment is not on Thursday.,AI-assisted authored diagnostic; no human gold labels
+Ccf14f34a5e,F48,service,modifier,test,neutral,The appointment is on this coming Thursday.,AI-assisted authored diagnostic; no human gold labels
+C005d2bba59,F48,service,capitals,test,neutral,The appointment is on THURSDAY.,AI-assisted authored diagnostic; no human gold labels
+Caa1621381d,F48,service,punctuation,test,neutral,The appointment is on Thursday!!!,AI-assisted authored diagnostic; no human gold labels
+C6f46ef1e01,F48,service,contrast,test,neutral,"The appointment is on Thursday, but the early confirmation is reassuring.",AI-assisted authored diagnostic; no human gold labels

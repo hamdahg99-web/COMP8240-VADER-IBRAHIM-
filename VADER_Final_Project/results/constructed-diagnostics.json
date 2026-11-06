@@ -1,0 +1,602 @@
+[
+  {
+    "split": "development",
+    "implementation": "archived",
+    "base_design_tone": "negative",
+    "condition": "negation",
+    "families": 4,
+    "mean_score_delta": 0.61365,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "archived",
+    "base_design_tone": "negative",
+    "condition": "modifier",
+    "families": 4,
+    "mean_score_delta": -0.058975,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "archived",
+    "base_design_tone": "negative",
+    "condition": "capitals",
+    "families": 4,
+    "mean_score_delta": -0.139,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "archived",
+    "base_design_tone": "negative",
+    "condition": "punctuation",
+    "families": 4,
+    "mean_score_delta": -0.1628,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "archived",
+    "base_design_tone": "negative",
+    "condition": "contrast",
+    "families": 4,
+    "mean_score_delta": 0.9163749999999999,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "archived",
+    "base_design_tone": "neutral",
+    "condition": "negation",
+    "families": 4,
+    "mean_score_delta": 0.0,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "archived",
+    "base_design_tone": "neutral",
+    "condition": "modifier",
+    "families": 4,
+    "mean_score_delta": 0.0,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "archived",
+    "base_design_tone": "neutral",
+    "condition": "capitals",
+    "families": 4,
+    "mean_score_delta": 0.0,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "archived",
+    "base_design_tone": "neutral",
+    "condition": "punctuation",
+    "families": 4,
+    "mean_score_delta": 0.0,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "archived",
+    "base_design_tone": "neutral",
+    "condition": "contrast",
+    "families": 4,
+    "mean_score_delta": -0.124225,
+    "design_direction_check_passed": null,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "archived",
+    "base_design_tone": "positive",
+    "condition": "negation",
+    "families": 4,
+    "mean_score_delta": -0.56875,
+    "design_direction_check_passed": 3,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "archived",
+    "base_design_tone": "positive",
+    "condition": "modifier",
+    "families": 4,
+    "mean_score_delta": 0.040025000000000005,
+    "design_direction_check_passed": 3,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "archived",
+    "base_design_tone": "positive",
+    "condition": "capitals",
+    "families": 4,
+    "mean_score_delta": 0.09335000000000002,
+    "design_direction_check_passed": 3,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "archived",
+    "base_design_tone": "positive",
+    "condition": "punctuation",
+    "families": 4,
+    "mean_score_delta": 0.10900000000000001,
+    "design_direction_check_passed": 3,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "archived",
+    "base_design_tone": "positive",
+    "condition": "contrast",
+    "families": 4,
+    "mean_score_delta": -0.736575,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "maintained",
+    "base_design_tone": "negative",
+    "condition": "negation",
+    "families": 4,
+    "mean_score_delta": 0.61365,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "maintained",
+    "base_design_tone": "negative",
+    "condition": "modifier",
+    "families": 4,
+    "mean_score_delta": -0.058975,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "maintained",
+    "base_design_tone": "negative",
+    "condition": "capitals",
+    "families": 4,
+    "mean_score_delta": -0.139,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "maintained",
+    "base_design_tone": "negative",
+    "condition": "punctuation",
+    "families": 4,
+    "mean_score_delta": -0.1628,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "maintained",
+    "base_design_tone": "negative",
+    "condition": "contrast",
+    "families": 4,
+    "mean_score_delta": 0.9163749999999999,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "maintained",
+    "base_design_tone": "neutral",
+    "condition": "negation",
+    "families": 4,
+    "mean_score_delta": 0.0,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "maintained",
+    "base_design_tone": "neutral",
+    "condition": "modifier",
+    "families": 4,
+    "mean_score_delta": 0.0,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "maintained",
+    "base_design_tone": "neutral",
+    "condition": "capitals",
+    "families": 4,
+    "mean_score_delta": 0.0,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "maintained",
+    "base_design_tone": "neutral",
+    "condition": "punctuation",
+    "families": 4,
+    "mean_score_delta": 0.0,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "maintained",
+    "base_design_tone": "neutral",
+    "condition": "contrast",
+    "families": 4,
+    "mean_score_delta": -0.124225,
+    "design_direction_check_passed": null,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "maintained",
+    "base_design_tone": "positive",
+    "condition": "negation",
+    "families": 4,
+    "mean_score_delta": -0.56875,
+    "design_direction_check_passed": 3,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "maintained",
+    "base_design_tone": "positive",
+    "condition": "modifier",
+    "families": 4,
+    "mean_score_delta": 0.040025000000000005,
+    "design_direction_check_passed": 3,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "maintained",
+    "base_design_tone": "positive",
+    "condition": "capitals",
+    "families": 4,
+    "mean_score_delta": 0.09335000000000002,
+    "design_direction_check_passed": 3,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "maintained",
+    "base_design_tone": "positive",
+    "condition": "punctuation",
+    "families": 4,
+    "mean_score_delta": 0.10900000000000001,
+    "design_direction_check_passed": 3,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "development",
+    "implementation": "maintained",
+    "base_design_tone": "positive",
+    "condition": "contrast",
+    "families": 4,
+    "mean_score_delta": -0.736575,
+    "design_direction_check_passed": 4,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "archived",
+    "base_design_tone": "negative",
+    "condition": "negation",
+    "families": 12,
+    "mean_score_delta": 0.6878416666666668,
+    "design_direction_check_passed": 11,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "archived",
+    "base_design_tone": "negative",
+    "condition": "modifier",
+    "families": 12,
+    "mean_score_delta": -0.05167499999999999,
+    "design_direction_check_passed": 11,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "archived",
+    "base_design_tone": "negative",
+    "condition": "capitals",
+    "families": 12,
+    "mean_score_delta": -0.12168333333333337,
+    "design_direction_check_passed": 11,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "archived",
+    "base_design_tone": "negative",
+    "condition": "punctuation",
+    "families": 12,
+    "mean_score_delta": -0.14246666666666666,
+    "design_direction_check_passed": 11,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "archived",
+    "base_design_tone": "negative",
+    "condition": "contrast",
+    "families": 12,
+    "mean_score_delta": 0.8093583333333333,
+    "design_direction_check_passed": 12,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "archived",
+    "base_design_tone": "neutral",
+    "condition": "negation",
+    "families": 12,
+    "mean_score_delta": 0.020183333333333334,
+    "design_direction_check_passed": 10,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "archived",
+    "base_design_tone": "neutral",
+    "condition": "modifier",
+    "families": 12,
+    "mean_score_delta": 0.0,
+    "design_direction_check_passed": 12,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "archived",
+    "base_design_tone": "neutral",
+    "condition": "capitals",
+    "families": 12,
+    "mean_score_delta": 0.015041666666666667,
+    "design_direction_check_passed": 11,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "archived",
+    "base_design_tone": "neutral",
+    "condition": "punctuation",
+    "families": 12,
+    "mean_score_delta": 0.013516666666666663,
+    "design_direction_check_passed": 9,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "archived",
+    "base_design_tone": "neutral",
+    "condition": "contrast",
+    "families": 12,
+    "mean_score_delta": 0.10890833333333332,
+    "design_direction_check_passed": null,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "archived",
+    "base_design_tone": "positive",
+    "condition": "negation",
+    "families": 12,
+    "mean_score_delta": -0.7039416666666667,
+    "design_direction_check_passed": 10,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "archived",
+    "base_design_tone": "positive",
+    "condition": "modifier",
+    "families": 12,
+    "mean_score_delta": 0.04077500000000001,
+    "design_direction_check_passed": 10,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "archived",
+    "base_design_tone": "positive",
+    "condition": "capitals",
+    "families": 12,
+    "mean_score_delta": 0.09485000000000003,
+    "design_direction_check_passed": 10,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "archived",
+    "base_design_tone": "positive",
+    "condition": "punctuation",
+    "families": 12,
+    "mean_score_delta": 0.11068333333333336,
+    "design_direction_check_passed": 10,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "archived",
+    "base_design_tone": "positive",
+    "condition": "contrast",
+    "families": 12,
+    "mean_score_delta": -0.8332083333333333,
+    "design_direction_check_passed": 12,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "maintained",
+    "base_design_tone": "negative",
+    "condition": "negation",
+    "families": 12,
+    "mean_score_delta": 0.6878416666666668,
+    "design_direction_check_passed": 11,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "maintained",
+    "base_design_tone": "negative",
+    "condition": "modifier",
+    "families": 12,
+    "mean_score_delta": -0.05167499999999999,
+    "design_direction_check_passed": 11,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "maintained",
+    "base_design_tone": "negative",
+    "condition": "capitals",
+    "families": 12,
+    "mean_score_delta": -0.12168333333333337,
+    "design_direction_check_passed": 11,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "maintained",
+    "base_design_tone": "negative",
+    "condition": "punctuation",
+    "families": 12,
+    "mean_score_delta": -0.14246666666666666,
+    "design_direction_check_passed": 11,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "maintained",
+    "base_design_tone": "negative",
+    "condition": "contrast",
+    "families": 12,
+    "mean_score_delta": 0.8093583333333333,
+    "design_direction_check_passed": 12,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "maintained",
+    "base_design_tone": "neutral",
+    "condition": "negation",
+    "families": 12,
+    "mean_score_delta": 0.03138333333333334,
+    "design_direction_check_passed": 11,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "maintained",
+    "base_design_tone": "neutral",
+    "condition": "modifier",
+    "families": 12,
+    "mean_score_delta": 0.0,
+    "design_direction_check_passed": 12,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "maintained",
+    "base_design_tone": "neutral",
+    "condition": "capitals",
+    "families": 12,
+    "mean_score_delta": 0.015041666666666667,
+    "design_direction_check_passed": 11,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "maintained",
+    "base_design_tone": "neutral",
+    "condition": "punctuation",
+    "families": 12,
+    "mean_score_delta": 0.013516666666666663,
+    "design_direction_check_passed": 9,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "maintained",
+    "base_design_tone": "neutral",
+    "condition": "contrast",
+    "families": 12,
+    "mean_score_delta": 0.10890833333333332,
+    "design_direction_check_passed": null,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "maintained",
+    "base_design_tone": "positive",
+    "condition": "negation",
+    "families": 12,
+    "mean_score_delta": -0.7039416666666667,
+    "design_direction_check_passed": 10,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "maintained",
+    "base_design_tone": "positive",
+    "condition": "modifier",
+    "families": 12,
+    "mean_score_delta": 0.04077500000000001,
+    "design_direction_check_passed": 10,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "maintained",
+    "base_design_tone": "positive",
+    "condition": "capitals",
+    "families": 12,
+    "mean_score_delta": 0.09485000000000003,
+    "design_direction_check_passed": 10,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "maintained",
+    "base_design_tone": "positive",
+    "condition": "punctuation",
+    "families": 12,
+    "mean_score_delta": 0.11068333333333336,
+    "design_direction_check_passed": 10,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  },
+  {
+    "split": "test",
+    "implementation": "maintained",
+    "base_design_tone": "positive",
+    "condition": "contrast",
+    "families": 12,
+    "mean_score_delta": -0.8332083333333333,
+    "design_direction_check_passed": 12,
+    "interpretation": "AI-authored drafting hypothesis; independent human validation pending"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "seed": 8240,
+  "families": 48,
+  "items": 288,
+  "domains": 4,
+  "conditions": 6,
+  "development_families": 12,
+  "development_items": 72,
+  "test_families": 36,
+  "test_items": 216,
+  "authorship": "Drafted by the ChatGPT/Codex assistant on 2026-11-04; reviewed for obvious grammar and duplicate strings.",
+  "human_annotation_completed": false,
+  "design_tones_are_gold": false,
+  "split_policy": "One preselected positive, negative and neutral family per domain held for development.",
+  "llm_sample_families": [
+    "F47",
+    "F07",
+    "F46",
+    "F30",
+    "F34",
+    "F38",
+    "F44",
+    "F14",
+    "F39",
+    "F20"
+  ]
+}

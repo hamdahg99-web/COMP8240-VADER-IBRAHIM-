@@ -1,0 +1,8 @@
+{
+  "n": 60,
+  "human_gold_available": false,
+  "human_agreement_or_accuracy": null,
+  "archived_judge_label_agreement": 0.7333333333333333,
+  "maintained_judge_label_agreement": 0.7333333333333333,
+  "interpretation": "Model-to-model agreement only; the same assistant authored and judged the constructed texts."
+}

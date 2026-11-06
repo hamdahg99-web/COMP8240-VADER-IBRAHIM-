@@ -1,0 +1,5 @@
+domain,corpus,n,paper_r,archived_r,maintained_r,archived_macro_f1_provisional,maintained_macro_f1_provisional,seconds
+tweets,Tweet-like texts,4200,0.881,0.881166,0.872217,0.746696,0.739926,0.681
+movie_reviews,Movie snippets,10605,0.451,0.416477,0.427597,0.405457,0.40596,2.662
+product_reviews,Product snippets,3708,0.565,0.570896,0.589628,0.513109,0.521215,0.791
+nyt_editorials,Editorial snippets,5190,0.492,0.491511,0.502898,0.520599,0.525335,1.091

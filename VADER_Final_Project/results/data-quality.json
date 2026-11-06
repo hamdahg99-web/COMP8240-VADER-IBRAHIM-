@@ -1,0 +1,20 @@
+{
+  "dynasent_round1": {
+    "empty_texts": 0,
+    "duplicate_ids": 0,
+    "duplicate_normalised_texts": 0,
+    "original_text_overlap": 1,
+    "whitespace_changed": 104,
+    "missing_or_invalid_labels": 0,
+    "official_split_preserved": true
+  },
+  "dynasent_round2": {
+    "empty_texts": 0,
+    "duplicate_ids": 0,
+    "duplicate_normalised_texts": 0,
+    "original_text_overlap": 0,
+    "whitespace_changed": 31,
+    "missing_or_invalid_labels": 0,
+    "official_split_preserved": true
+  }
+}

@@ -1,0 +1,5 @@
+id,text,human_mean,reference_policy,derived_reference_class,archived_compound,maintained_compound,selection
+4,"LMAO, AMAZING!",2.857142857,human_mean/4; inclusive +/-0.05 thresholds,positive,0.8398,0.8398,"Post-hoc qualitative illustration, not a prevalence estimate"
+35,Anger is ugly.,-1.010526316,human_mean/4; inclusive +/-0.05 thresholds,negative,-0.7906,-0.7906,"Post-hoc qualitative illustration, not a prevalence estimate"
+266,Daydreaming about spring.,1.178947368,human_mean/4; inclusive +/-0.05 thresholds,positive,0.0,0.0,"Post-hoc qualitative illustration, not a prevalence estimate"
+431,Not a good day,-1.81443299,human_mean/4; inclusive +/-0.05 thresholds,negative,0.4404,-0.3412,"Post-hoc qualitative illustration, not a prevalence estimate"

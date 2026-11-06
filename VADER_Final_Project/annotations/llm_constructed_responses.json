@@ -1,0 +1,422 @@
+[
+  {
+    "item_id": "C66adcb16b9",
+    "label": "positive",
+    "supporting_phrase": "not disappointing",
+    "confidence": "medium",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "Cd4680adf6b",
+    "label": "negative",
+    "supporting_phrase": "frustrating",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "C84a0262357",
+    "label": "negative",
+    "supporting_phrase": "extremely frustrating",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "Cbe34279739",
+    "label": "positive",
+    "supporting_phrase": "not frustrating",
+    "confidence": "medium",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "Cc210e5dac0",
+    "label": "negative",
+    "supporting_phrase": "FRUSTRATING",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "Cdd04b62709",
+    "label": "negative",
+    "supporting_phrase": "confusing",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "C3e88b54f25",
+    "label": "neutral",
+    "supporting_phrase": "has a tracking number",
+    "confidence": "high",
+    "explanation": "The text provides information without a clear evaluative attitude."
+  },
+  {
+    "item_id": "Cb0670fe025",
+    "label": "negative",
+    "supporting_phrase": "disappointing",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "C8b3d3ce1cb",
+    "label": "neutral",
+    "supporting_phrase": "has a tracking number",
+    "confidence": "high",
+    "explanation": "The text provides information without a clear evaluative attitude."
+  },
+  {
+    "item_id": "C6886412ba9",
+    "label": "positive",
+    "supporting_phrase": "EXCELLENT",
+    "confidence": "high",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "C8609c8155d",
+    "label": "positive",
+    "supporting_phrase": "not confusing",
+    "confidence": "medium",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "Cd1b1cf6b35",
+    "label": "positive",
+    "supporting_phrase": "but the driver is friendly",
+    "confidence": "medium",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "C32446b3c8b",
+    "label": "neutral",
+    "supporting_phrase": "does not close at five",
+    "confidence": "high",
+    "explanation": "The text provides information without a clear evaluative attitude."
+  },
+  {
+    "item_id": "Cec27466f9f",
+    "label": "positive",
+    "supporting_phrase": "excellent",
+    "confidence": "high",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "Cc8f3eafd3e",
+    "label": "negative",
+    "supporting_phrase": "DISAPPOINTING",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "Cb95f8ed0d9",
+    "label": "positive",
+    "supporting_phrase": "but the journey planner is useful",
+    "confidence": "medium",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "C635a5f2a9a",
+    "label": "negative",
+    "supporting_phrase": "delivery delay is frustrating",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "C9e409339ee",
+    "label": "neutral",
+    "supporting_phrase": "exactly the same room",
+    "confidence": "high",
+    "explanation": "The text provides information without a clear evaluative attitude."
+  },
+  {
+    "item_id": "C8501d61052",
+    "label": "negative",
+    "supporting_phrase": "very unpleasant",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "Cf61f9ef65c",
+    "label": "positive",
+    "supporting_phrase": "excellent",
+    "confidence": "high",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "C9a5020a5d0",
+    "label": "neutral",
+    "supporting_phrase": "room twelve",
+    "confidence": "high",
+    "explanation": "The text provides information without a clear evaluative attitude."
+  },
+  {
+    "item_id": "Cc3cd3d8c7a",
+    "label": "negative",
+    "supporting_phrase": "but the appointment system is awful",
+    "confidence": "medium",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "C9e9bc4e36f",
+    "label": "positive",
+    "supporting_phrase": "very reliable",
+    "confidence": "high",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "C16246162a9",
+    "label": "negative",
+    "supporting_phrase": "but the late departures are annoying",
+    "confidence": "medium",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "Ccb3770055f",
+    "label": "positive",
+    "supporting_phrase": "RELIABLE",
+    "confidence": "high",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "C53d0e08e76",
+    "label": "positive",
+    "supporting_phrase": "reliable",
+    "confidence": "high",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "Cc8306ef63a",
+    "label": "neutral",
+    "supporting_phrase": "tracking NUMBER",
+    "confidence": "high",
+    "explanation": "The text provides information without a clear evaluative attitude."
+  },
+  {
+    "item_id": "Ca595760545",
+    "label": "neutral",
+    "supporting_phrase": "closes at five",
+    "confidence": "high",
+    "explanation": "The text provides information without a clear evaluative attitude."
+  },
+  {
+    "item_id": "C3414186aab",
+    "label": "neutral",
+    "supporting_phrase": "closes at exactly five",
+    "confidence": "high",
+    "explanation": "The text provides information without a clear evaluative attitude."
+  },
+  {
+    "item_id": "Ccd32e90807",
+    "label": "negative",
+    "supporting_phrase": "not excellent",
+    "confidence": "medium",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "C7a10c2e981",
+    "label": "positive",
+    "supporting_phrase": "but the refunds are reliable",
+    "confidence": "medium",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "Ccac9647c08",
+    "label": "negative",
+    "supporting_phrase": "but the damaged packaging is disappointing",
+    "confidence": "medium",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "C6b47ed1682",
+    "label": "neutral",
+    "supporting_phrase": "closes at five",
+    "confidence": "high",
+    "explanation": "The text provides information without a clear evaluative attitude."
+  },
+  {
+    "item_id": "C7706bb6eb2",
+    "label": "neutral",
+    "supporting_phrase": "separate tracking number",
+    "confidence": "high",
+    "explanation": "The text provides information without a clear evaluative attitude."
+  },
+  {
+    "item_id": "Cbbc8abfb35",
+    "label": "positive",
+    "supporting_phrase": "friendly",
+    "confidence": "high",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "Ca519953a51",
+    "label": "positive",
+    "supporting_phrase": "reliable",
+    "confidence": "high",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "C1488873429",
+    "label": "negative",
+    "supporting_phrase": "not friendly",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "C2a429639a8",
+    "label": "positive",
+    "supporting_phrase": "very friendly",
+    "confidence": "high",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "C154e193b17",
+    "label": "positive",
+    "supporting_phrase": "not unpleasant",
+    "confidence": "medium",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "Ca61c7de99e",
+    "label": "neutral",
+    "supporting_phrase": "does not take place in room twelve",
+    "confidence": "high",
+    "explanation": "The text provides information without a clear evaluative attitude."
+  },
+  {
+    "item_id": "C9101494798",
+    "label": "negative",
+    "supporting_phrase": "unpleasant",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "C99c151bd37",
+    "label": "negative",
+    "supporting_phrase": "UNPLEASANT",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "C2d578ecd32",
+    "label": "negative",
+    "supporting_phrase": "disappointing",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "Cb10111603a",
+    "label": "neutral",
+    "supporting_phrase": "room twelve",
+    "confidence": "high",
+    "explanation": "The text provides information without a clear evaluative attitude."
+  },
+  {
+    "item_id": "Cec685ebe1b",
+    "label": "negative",
+    "supporting_phrase": "frustrating",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "C8d460d8517",
+    "label": "positive",
+    "supporting_phrase": "but the staff are friendly",
+    "confidence": "medium",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "C31ff825280",
+    "label": "negative",
+    "supporting_phrase": "noise outside is annoying",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "C465ba19324",
+    "label": "negative",
+    "supporting_phrase": "extremely confusing",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "C10595d508d",
+    "label": "neutral",
+    "supporting_phrase": "room TWELVE",
+    "confidence": "high",
+    "explanation": "The text provides information without a clear evaluative attitude."
+  },
+  {
+    "item_id": "Cf94fd44438",
+    "label": "negative",
+    "supporting_phrase": "unpleasant",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "C94e3c05888",
+    "label": "negative",
+    "supporting_phrase": "confusing",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "C771a2ecd09",
+    "label": "positive",
+    "supporting_phrase": "FRIENDLY",
+    "confidence": "high",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "Ca90b9a382e",
+    "label": "positive",
+    "supporting_phrase": "email response is helpful",
+    "confidence": "high",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "C0dff809e56",
+    "label": "neutral",
+    "supporting_phrase": "closes at FIVE",
+    "confidence": "high",
+    "explanation": "The text provides information without a clear evaluative attitude."
+  },
+  {
+    "item_id": "Cb243349764",
+    "label": "neutral",
+    "supporting_phrase": "does not have a tracking number",
+    "confidence": "high",
+    "explanation": "The text provides information without a clear evaluative attitude."
+  },
+  {
+    "item_id": "C37a6ba8451",
+    "label": "positive",
+    "supporting_phrase": "friendly",
+    "confidence": "high",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "C95ee65fc5a",
+    "label": "negative",
+    "supporting_phrase": "not reliable",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "C2bf3138ff7",
+    "label": "negative",
+    "supporting_phrase": "really disappointing",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  },
+  {
+    "item_id": "C2effa418d0",
+    "label": "positive",
+    "supporting_phrase": "really excellent",
+    "confidence": "high",
+    "explanation": "The text conveys overall approval in this reading."
+  },
+  {
+    "item_id": "Cb7adac3eaa",
+    "label": "negative",
+    "supporting_phrase": "CONFUSING",
+    "confidence": "high",
+    "explanation": "The text conveys overall disapproval in this reading."
+  }
+]

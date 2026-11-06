@@ -1,0 +1,24 @@
+{
+  "python": "3.12.14",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "source_commit": "44fc044cd877310ee8278a0eadf34bcd50d41d06",
+  "source_url": "https://raw.githubusercontent.com/cjhutto/vaderSentiment/44fc044cd877310ee8278a0eadf34bcd50d41d06/",
+  "archive_sha256": "d5bb07d87474b3eb8d30b4deccbc23f19d742a6c5718fbacc65485b70b95c5fa",
+  "input_sha256": {
+    "tweets_GroundTruth.txt": "dfbe7102e2f92579ed8b19df9a3822491880697c67adf712fb66e520cc05102f",
+    "movieReviewSnippets_GroundTruth.txt": "c8293b0d942e90e223ea2c0955d969040d1a1be514a978b9af0698940bd13350",
+    "amazonReviewSnippets_GroundTruth.txt": "11a9807a0974a2506a2d3b4851eaf69b3d6d20688ce4923adda2312a4f6dd6c2",
+    "nytEditorialSnippets_GroundTruth.txt": "7d8fbcce7dde5d716da53e78f4ef4be6b706e9ef1e1d51887e6d0ad4b69cc27e"
+  },
+  "archived_compatibility_source_sha256": "31c5b97ab8295e3517a22c561f97cf7f909843ecb4b9264f54f974ce861033d7",
+  "compatibility_changes": [
+    "Python 2 syntax converted with lib2to3 under Python 3.12",
+    "Latin-1 lexicon decoding"
+  ],
+  "correlation_implementation": "Standard Pearson correlation; Python standard library",
+  "classification_policy": "Provisional: gold mean / 4, inclusive +/-0.05, macro-F1 over three classes",
+  "paper_f1_protocol_confirmed": false,
+  "human_annotation_performed": false,
+  "new_benchmark_scored": false,
+  "total_seconds": 5.278
+}

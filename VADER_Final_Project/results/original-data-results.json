@@ -1,0 +1,46 @@
+[
+  {
+    "domain": "tweets",
+    "corpus": "Tweet-like texts",
+    "n": 4200,
+    "paper_r": 0.881,
+    "archived_r": 0.881166,
+    "maintained_r": 0.872217,
+    "archived_macro_f1_provisional": 0.746696,
+    "maintained_macro_f1_provisional": 0.739926,
+    "seconds": 0.681
+  },
+  {
+    "domain": "movie_reviews",
+    "corpus": "Movie snippets",
+    "n": 10605,
+    "paper_r": 0.451,
+    "archived_r": 0.416477,
+    "maintained_r": 0.427597,
+    "archived_macro_f1_provisional": 0.405457,
+    "maintained_macro_f1_provisional": 0.40596,
+    "seconds": 2.662
+  },
+  {
+    "domain": "product_reviews",
+    "corpus": "Product snippets",
+    "n": 3708,
+    "paper_r": 0.565,
+    "archived_r": 0.570896,
+    "maintained_r": 0.589628,
+    "archived_macro_f1_provisional": 0.513109,
+    "maintained_macro_f1_provisional": 0.521215,
+    "seconds": 0.791
+  },
+  {
+    "domain": "nyt_editorials",
+    "corpus": "Editorial snippets",
+    "n": 5190,
+    "paper_r": 0.492,
+    "archived_r": 0.491511,
+    "maintained_r": 0.502898,
+    "archived_macro_f1_provisional": 0.520599,
+    "maintained_macro_f1_provisional": 0.525335,
+    "seconds": 1.091
+  }
+]
