@@ -10,17 +10,6 @@ of the constructed dataset is pending. The report is a review draft and must not
 be represented as having human validation. A public GitHub URL must be verified
 and inserted before final submission. No iLearn submission has been made.
 
-The student returned an edited manuscript on 5 November 2026 and requested a
-formatting-only pass. The current files are
-`report/COMP8240_Assessment3_Formatted.docx` and `report/main.pdf` (compiled ACL
-LaTeX). The PDF has ten main-body pages, one reference page and one appendix page.
-The student subsequently requested correction of the sentence about fabricated
-ratings and restoration of clickable in-text citations. That sentence and
-citation formatting were corrected, and the missing original course-criteria
-reference was restored. All other student wording was retained, including wording
-that differs from the experimental evidence. Read `docs/STUDENT_WORD_FORMATTING.md` before treating
-that manuscript as scientifically checked. The previous review source remains
-in `report/prior_review_manuscript.tex`.
 
 ## Reproduce
 
